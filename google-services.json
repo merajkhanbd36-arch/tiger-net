@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796846736723",
+    "project_id": "tiger-call",
+    "storage_bucket": "tiger-call.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796846736723:android:07a72da7f98a5484e3cda6",
+        "android_client_info": {
+          "package_name": "com.tigercall.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTfoyOZ7OrVjJuaQCgrYNAgDJXUUwIXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
